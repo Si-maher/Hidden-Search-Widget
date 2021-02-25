@@ -11,8 +11,14 @@ body {
     overflow: hidden;
     margin: 0;
 }
+.container {
+    box-shadow:0 2px 50px #555; 
+    padding: 100px 200px;
+    border-radius: 10px;
+}
 .search {
     position: relative;
+    
 }
 .search .input {
     background-color: #fff;
